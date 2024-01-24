@@ -7,6 +7,11 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
+  """Returns the HTML content for the index page.
+
+  Returns:
+      str: The HTML content for the index page.
+  """
   return '''
   <h1>Adopt a Pet!</h1>
   <p>Browse through the links below to find your new furry friend:</p>
