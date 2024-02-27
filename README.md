@@ -4,11 +4,13 @@
 Välkommen till "Adoptera Ett Husdjur"-projektet i Python!
 Detta lättviktiga program gör det lätt för dig att skapa ett register av husdjur, där du enkelt kan lägga till samt ta bort djur, ange information till de respektive djuren. Detta är det ideala projektet att integrera för dig som vill skapa en intuitiv hemsida för adoptering av husdjur, då du lätt kan utveckla den vidare.
 
-## Projektets basfunktioner
+## 
+
+
+## Projektets basfunktioner (lätt att utveckla)
 - Leta igenom ett register av djur
 - Visa detaljerad information av de respektive husdjuren - inklusive bilder och beskrivningar
 - Navigera genom lättförståeliga länkar som är optimerade för effektivitet; där fel kommer förebyggda i förväg.
-(Notera att de ovanstående går att utveckla vidare)
 
 ## Installation
 För att köra detta projektet lokalt, följ dessa steg:
@@ -29,13 +31,11 @@ För att köra detta projektet lokalt, följ dessa steg:
     npm start
     ```
 
-## Contributing
-We welcome contributions from the community! If you would like to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md).
+## Bidragsgivare
+Martin Rockström (martin.rockstrom@elev.ga.ntig.se)
+Alex Pettersson (alex.pettersson@elev.ga.ntig.se)
 
-## License
-This project is licensed under the [MIT License](./LICENSE).
-
-## Contact
-If you have any questions or suggestions, please feel free to reach out to us at [contact@adopteraetthusdjur.com](mailto:contact@adopteraetthusdjur.com).
+## Licens
+Detta projekt är licenserat med MIT-licensen [MIT License](./LICENSE).
 
 Happy pet adoption!
