@@ -1,30 +1,30 @@
 # Adoptera ett husdjur
 
-## Introduction
-Welcome to the Adoptera ett husdjur project! This project aims to provide a platform for connecting potential pet adopters with shelters and rescue organizations. By adopting a pet, you not only give a loving home to an animal in need but also contribute to reducing the number of homeless pets.
+## Introduktion
+Välkommen till "Adoptera Ett Husdjur"-projektet i Python!
+Detta lättviktiga program gör det lätt för dig att skapa ett register av husdjur, där du enkelt kan lägga till samt ta bort djur, ange information till de respektive djuren. Detta är det ideala projektet att integrera för dig som vill skapa en intuitiv hemsida för adoptering av husdjur, då du lätt kan utveckla den vidare.
 
-## Features
-- Browse and search for available pets
-- View detailed information about each pet, including photos and descriptions
-- Contact shelters and rescue organizations for adoption inquiries
-- Apply for pet adoption online
-- Get notified about new pets available for adoption
+## Projektets basfunktioner
+- Leta igenom ett register av djur
+- Visa detaljerad information av de respektive husdjuren - inklusive bilder och beskrivningar
+- Navigera genom lättförståeliga länkar som är optimerade för effektivitet; där fel kommer förebyggda i förväg.
+(Notera att de ovanstående går att utveckla vidare)
 
 ## Installation
-To run this project locally, follow these steps:
+För att köra detta projektet lokalt, följ dessa steg:
 
-1. Clone the repository:
+1. Klona detta repository:
     ```bash
     git clone https://github.com/your-username/adoptera-ett-husdjur.git
     ```
 
-2. Install the project dependencies:
+2. Installera de nödvändiga attributen för projektet:
     ```bash
     cd adoptera-ett-husdjur
     npm install
     ```
 
-3. Start the development server:
+3. Starta utvecklingsservern:
     ```bash
     npm start
     ```
