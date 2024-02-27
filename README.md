@@ -10,7 +10,7 @@ Detta lättviktiga program gör det lätt för dig att skapa ett register av hus
 ## Projektets basfunktioner (lätt att utveckla)
 - Leta igenom ett register av djur
 - Visa detaljerad information av de respektive husdjuren - inklusive bilder och beskrivningar
-- Navigera genom lättförståeliga länkar som är optimerade för effektivitet; där fel kommer förebyggda i förväg.
+- Navigera genom lättförståeliga länkar som är optimerade för effektivitet; där fel kommer förebyggda i förväg
 
 ## Installation
 För att köra detta projektet lokalt, följ dessa steg:
