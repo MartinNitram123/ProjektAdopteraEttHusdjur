@@ -1,11 +1,12 @@
 # Adoptera ett husdjur
 
-## Introduktion
-Välkommen till "Adoptera Ett Husdjur"-projektet i Python!
+## Introduktion 
+Välkommen till "Adoptera Ett Husdjur"-projektet i Python! 👋
+
 Detta lättviktiga program gör det lätt för dig att skapa ett register av husdjur, där du enkelt kan lägga till samt ta bort djur, ange information till de respektive djuren. Detta är det ideala projektet att integrera för dig som vill skapa en intuitiv hemsida för adoptering av husdjur, då du lätt kan utveckla den vidare.
 
-## 
-
+## Projektets Språk
+Detta projekt är skapat i Python 3.12.2, och använder sig av Flask-frameworket.
 
 ## Projektets basfunktioner (lätt att utveckla)
 - Leta igenom ett register av djur
