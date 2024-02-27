@@ -33,7 +33,7 @@ För att köra detta projektet lokalt, följ dessa steg:
 
 ## Bidragsgivare
 Martin Rockström (martin.rockstrom@elev.ga.ntig.se)
-\n
+
 Alex Pettersson (alex.pettersson@elev.ga.ntig.se)
 
 ## Licens
