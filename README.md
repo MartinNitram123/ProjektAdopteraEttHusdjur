@@ -1,7 +1,8 @@
 # Adoptera ett husdjur
-
 ## Introduktion 👋
 Välkommen till "Adoptera Ett Husdjur"-projektet i Python!
+
+Detta är ett projekt skapat i kursen Webbserverprogrammering 1 på NTI Gymnasiet Örebro.
 
 Detta lättviktiga program gör det lätt för dig att skapa ett register av husdjur, där du enkelt kan lägga till samt ta bort djur, ange information till de respektive djuren. Detta är det ideala projektet att integrera för dig som vill skapa en intuitiv hemsida för adoptering av husdjur, då du lätt kan utveckla den vidare.
 
