@@ -33,6 +33,8 @@ För att köra detta projektet lokalt, följ dessa steg:
     npm start
     ```
 
+4. Programmera vidare och ha kul!
+
 ## Bidragsgivare 🙋‍♂️
 Martin Rockström (martin.rockstrom@elev.ga.ntig.se)
 
